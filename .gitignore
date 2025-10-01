@@ -8,6 +8,8 @@ __pycache__/
 *.pyd
 
 # Conda and Virtual Envs
+.virtual_documents/
+anaconda_projects/
 .conda/
 env/
 venv/
